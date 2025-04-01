@@ -29,7 +29,7 @@ This repository contains:
 - [Example of a Website Prototype](https://aelsaddik.github.io/bike-rental/)
 - Downloadable files and code for rapid prototyping of user interfaces.
  - **Basic AI Chatbot Design Code**
-   -COMING SOON
+   -[Starter examples for AI chatbots](https://github.com/aelsaddik/SEG3125/tree/main/AI%20Chatbot%20Examples)
 - **Resources**
   - Course-related resources, documentation, and reference materials.
   - Links to external tutorials for further learning on web design and UI development.
